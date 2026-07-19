@@ -1,24 +1,22 @@
-````markdown
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="140"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120" alt="Java Logo"/>
 
 # ☕ Java Programs Repository
 
-### Learn Java from **Beginner → Advanced** with Clean, Well-Documented Programs
+### Learn Java from **Beginner → Advanced** with Clean & Well-Documented Programs
 
 <p>
-<img src="https://img.shields.io/badge/Java-21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Repository-Active-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Made%20With-Love-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repository-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
 </p>
 
----
+**A comprehensive collection of Java programs covering everything from the fundamentals to advanced concepts.**
 
-*A complete collection of Java programs covering fundamentals, object-oriented programming, data structures, exception handling, file handling, collections, multithreading, JDBC, and mini projects.*
-
-⭐ **If this repository helps you, consider giving it a Star!**
+⭐ If you find this repository useful, please consider giving it a **Star**.
 
 </div>
 
@@ -26,243 +24,121 @@
 
 # 📖 About
 
-Welcome to the **Java Programs Repository**.
+This repository contains a curated collection of Java programs for beginners, students, interview preparation, and developers. Each program is written with clean code, proper formatting, and easy-to-understand logic.
 
-This repository is a comprehensive collection of Java programs created for students, developers, and interview aspirants. Every program is written with simplicity and readability in mind, making it an excellent resource for learning Java from scratch.
+## ☕ What is Java?
 
-Whether you're preparing for:
-- 🎓 College Practical Exams
-- 💼 Technical Interviews
-- 📚 University Assignments
-- 🚀 Personal Learning
+Java is a high-level, object-oriented, class-based, platform-independent programming language developed by Sun Microsystems (now Oracle).
 
-this repository has you covered.
+Its famous principle is:
 
----
+> **Write Once, Run Anywhere (WORA)**
 
-# ☕ What is Java?
-
-Java is a **high-level, class-based, object-oriented, platform-independent programming language** developed by **Sun Microsystems** (now Oracle Corporation).
-
-Java follows the famous principle:
-
-> ## **Write Once, Run Anywhere (WORA)**
-
-Java source code is compiled into **Bytecode**, which executes inside the **Java Virtual Machine (JVM)**, allowing Java applications to run on Windows, Linux, macOS, and many other platforms without recompilation.
+Java source code is compiled into bytecode and executed by the Java Virtual Machine (JVM), allowing applications to run on multiple operating systems without modification.
 
 ---
 
-# 🚀 Why Java?
+# ✨ Features
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🌍
-
-### Platform Independent
-
-Run Java on any operating system using the JVM.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩
-
-### Object-Oriented
-
-Everything revolves around Classes and Objects.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔒
-
-### Secure
-
-Strong security model with runtime protection.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-### Fast
-
-JIT Compiler improves execution performance.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### ♻️
-
-### Garbage Collection
-
-Automatic memory management.
-
-</td>
-
-<td align="center">
-
-### 🧵
-
-### Multithreading
-
-Execute multiple tasks simultaneously.
-
-</td>
-
-<td align="center">
-
-### 📦
-
-### Rich API
-
-Large standard library for development.
-
-</td>
-
-<td align="center">
-
-### 💼
-
-### Enterprise Ready
-
-Used by millions of applications worldwide.
-
-</td>
-
-</tr>
-
-</table>
+| Feature | Description |
+|---------|-------------|
+| 🌍 Platform Independent | Runs on any OS with a JVM |
+| 🧩 Object-Oriented | Supports OOP principles |
+| 🔒 Secure | Strong runtime security |
+| ⚡ High Performance | JIT compiler improves speed |
+| 🧵 Multithreading | Supports concurrent execution |
+| ♻️ Garbage Collection | Automatic memory management |
+| 📦 Rich Standard Library | Extensive built-in APIs |
 
 ---
 
 # 🏗 Java Architecture
 
 ```text
-             Java Source Code (.java)
-                      │
-                      ▼
-              Java Compiler (javac)
-                      │
-                      ▼
-                 Bytecode (.class)
-                      │
-                      ▼
-           Java Virtual Machine (JVM)
-                      │
-          ┌───────────┼────────────┐
-          ▼           ▼            ▼
-      Windows      Linux        macOS
+Java Source (.java)
+        │
+        ▼
+ Java Compiler (javac)
+        │
+        ▼
+   Bytecode (.class)
+        │
+        ▼
+ Java Virtual Machine (JVM)
+        │
+        ▼
+ Windows • Linux • macOS
 ```
 
 ---
 
 # 📚 Topics Covered
 
-| Basics | Intermediate | Advanced |
-|---------|--------------|----------|
-| Variables | Classes | Collections |
-| Data Types | Objects | Generics |
-| Operators | Constructors | File Handling |
-| Loops | Methods | Multithreading |
-| Arrays | Packages | JDBC |
-| Strings | OOP | Reflection |
-| Input & Output | Exception Handling | Mini Projects |
+- Variables & Data Types
+- Operators
+- Input & Output
+- Conditional Statements
+- Loops
+- Arrays
+- Strings
+- Methods
+- Recursion
+- Classes & Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+- Interfaces
+- Exception Handling
+- File Handling
+- Collections Framework
+- Multithreading
+- JDBC
+- Mini Projects
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-java_programs_repo
+java_programs_repo/
 │
 ├── Basics
-│
 ├── Variables
-│
-├── Data Types
-│
 ├── Operators
-│
 ├── Conditional Statements
-│
 ├── Loops
-│
 ├── Arrays
-│
 ├── Strings
-│
 ├── Methods
-│
-├── Object Oriented Programming
-│
-├── Constructors
-│
-├── Inheritance
-│
-├── Polymorphism
-│
-├── Encapsulation
-│
-├── Abstraction
-│
-├── Interfaces
-│
+├── OOP
 ├── Exception Handling
-│
+├── Collections
 ├── File Handling
-│
-├── Collections Framework
-│
 ├── Multithreading
-│
 ├── JDBC
-│
 └── Mini Projects
 ```
 
 ---
 
-# 💻 Requirements
+# 🚀 Getting Started
 
-- Java JDK 17 or above
-- IntelliJ IDEA / Eclipse / VS Code / NetBeans
-- Git (Optional)
-
----
-
-# ▶️ Getting Started
-
-### Clone Repository
+## Clone the repository
 
 ```bash
 git clone https://github.com/mcabhishek/java_programs_repo.git
-```
-
-### Move to Repository
-
-```bash
 cd java_programs_repo
 ```
 
-### Compile
+## Compile
 
 ```bash
 javac FileName.java
 ```
 
-### Run
+## Run
 
 ```bash
 java FileName
@@ -270,97 +146,76 @@ java FileName
 
 ---
 
-# 🎯 Java Learning Roadmap
+# 💻 Requirements
+
+- Java JDK 17+
+- IntelliJ IDEA / Eclipse / VS Code / NetBeans
+- Git
+
+---
+
+# 🎯 Learning Roadmap
 
 ```text
-Java Basics
-      │
-      ▼
-Variables
-      │
-      ▼
+Basics
+  ↓
+Variables & Data Types
+  ↓
 Operators
-      │
-      ▼
-Control Statements
-      │
-      ▼
+  ↓
+Conditions
+  ↓
 Loops
-      │
-      ▼
-Arrays
-      │
-      ▼
-Strings
-      │
-      ▼
+  ↓
+Arrays & Strings
+  ↓
 Methods
-      │
-      ▼
+  ↓
 Object-Oriented Programming
-      │
-      ▼
+  ↓
 Exception Handling
-      │
-      ▼
-Collections Framework
-      │
-      ▼
-File Handling
-      │
-      ▼
+  ↓
+Collections
+  ↓
 Multithreading
-      │
-      ▼
+  ↓
 JDBC
-      │
-      ▼
+  ↓
 Projects
 ```
 
 ---
 
-# 🎯 Repository Goals
-
-✔ Learn Java from Scratch
-
-✔ Practice Programming
-
-✔ Improve Problem Solving Skills
-
-✔ Prepare for Technical Interviews
-
-✔ Build Strong Java Fundamentals
-
-✔ Explore Advanced Java Concepts
-
----
-
 # 🤝 Contributing
 
-Contributions are always welcome!
+Contributions are welcome!
 
-1. Fork this repository.
+1. Fork the repository.
 2. Create a feature branch.
 3. Commit your changes.
-4. Push to your branch.
+4. Push your branch.
 5. Open a Pull Request.
 
 ---
 
 # 👨‍💻 Author
 
+**Abhishek MC**
+
+- 🎓 MCA Student
+- 💻 Java Developer
+- 🤖 AI & Machine Learning Enthusiast
+
+GitHub: https://github.com/mcabhishek
+
+---
+
 <div align="center">
 
-## Abhishek MC
+## ⭐ Support
 
-MCA Student • Java Developer • AI & Machine Learning Enthusiast
+If this repository helped you, please **Star ⭐ the repository** and share it with others.
 
-⭐ **If you like this repository, don't forget to Star it!**
-
-Thank you for visiting.
-
-Happy Coding! ☕🚀
+**Happy Coding! ☕🚀**
 
 </div>
-````
